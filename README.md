@@ -1,18 +1,18 @@
-```
-$$$$$$$\                        $$\     $$\        $$$$$$\             $$$$$$\  
-$$  __$$\                       $$ |    $$ |      $$  __$$\           $$  __$$\ 
-$$ |  $$ | $$$$$$\   $$$$$$\  $$$$$$\   $$$$$$$\  $$ /  \__| $$$$$$\  $$ /  $$ |
-$$ |  $$ |$$  __$$\ $$  __$$\ \_$$  _|  $$  __$$\ $$ |$$$$\ $$  __$$\  $$$$$$  |
-$$ |  $$ |$$$$$$$$ |$$ /  $$ |  $$ |    $$ |  $$ |$$ |\_$$ |$$ |  \__|$$  __$$< 
-$$ |  $$ |$$   ____|$$ |  $$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |      $$ /  $$ |
-$$$$$$$  |\$$$$$$$\ $$$$$$$  |  \$$$$  |$$ |  $$ |\$$$$$$  |$$ |      \$$$$$$  |
-\_______/  \_______|$$  ____/    \____/ \__|  \__| \______/ \__|       \______/ 
-                    $$ |                                                        
-                    $$ |                                                        
-                    \__|                                                        
+```                                         
+8888888b.                    888    888             .d8888b.           .d8888b. 
+888  "Y88b                   888    888            d88P  Y88b         d88P  Y88b
+888    888                   888    888            888    888         Y88b. d88P
+888    888  .d88b.  88888b.  888888 88888b.        888        888d888  "Y88888" 
+888    888 d8P  Y8b 888 "88b 888    888 "88b       888  88888 888P"   .d8P""Y8b.
+888    888 88888888 888  888 888    888  888       888    888 888     888    888
+888  .d88P Y8b.     888 d88P Y88b.  888  888       Y88b  d88P 888     Y88b  d88P
+8888888P"   "Y8888  88888P"   "Y888 888  888        "Y8888P88 888      "Y8888P" 
+                    888                                                         
+                    888                                                         
+                    888                                                             
 ```                                                                
 ______________
-# Exploring the great depths of science and life
+## Exploring the great depths of science and life
 ### Welcome to my GitHub profile! 👋
 
 ##### Hi there, I’m depthgr8 (Deepak Sharma)
@@ -29,8 +29,4 @@ ______________
 
 💡 Interests: AI-driven development tools, open-source collaboration, Education tools
 
-📫 Connect or collaborate: [You can contact me on] [LinkedIn](https://www.linkedin.com/in/deepaksharmaa/) [Facebook](https://www.facebook.com/depthgr8/) [Instagram](https://www.instagram.com/depthgr8)
-
-🌐 Blog: https://depthgr8.github.io
-______________
-Let’s create something meaningful
+🌐 Contact info: https://depthgr8.github.io
