@@ -14,30 +14,30 @@ UUUUUUUP"   "YVVVV  PPPPPP"   "YIII III  III        "YVVVVP88 III      "YVVVVP"
 ```
 
 ## Exploring the great depths of science and life
-Welcome to my GitHub profile! 👋
+Welcome to my GitHub profile! 
 
 Hi there, I’m depthgr8 (**Deepak Sharma**).  
 A developer, researcher and teacher, passionate about building purposeful, scalable, and efficient software. I’m passionate about exploring the depth of ideas, whether that’s in software, design, or technology.
 Here, you’ll find my personal projects, experiments, and contributions that reflect a continuous journey toward improvement.
 ______________
 
-🧠 **Currently learning:**  
+**Currently learning:**  
 Advanced AI frameworks to enhance and integrate my skills to build learning software for the society
 
-💻 **Interested in:**  
+**Interested in:**  
 clean code, modern UI/UX, and open-source collaboration
 
-⚙️ **Tech stack:**  
+**Tech stack:**  
 HTML, CSS, JavaScript, Python, and React
 
-💡 **Interests:**  
+**Interests:**  
 AI-driven development tools, open-source collaboration, Education tools
 
-🌐 **My website:**   
+**My website:**   
 https://depthgr8.github.io
 
-💬 **Connect or collaborate:**  
+**Connect or collaborate:**  
 [LinkedIn](https://www.linkedin.com/in/deepaksharmaa/) | [Facebook](https://www.facebook.com/depthgr8/) | [Instagram](https://www.instagram.com/depthgr8)
 
-🏢 **My NPO - Jalte Diye Foundation:**  
+**My NPO - Jalte Diye Foundation:**  
 [Website](https://reallyrealeducation.org/) | [Facebook](https://www.facebook.com/JalteDiyeFoundation/) | [LinkedIn](https://www.linkedin.com/company/jalte-diye-foundation) | [Twitter](https://x.com/JalteDiyeNPO) | [YouTube](https://www.youtube.com/@JalteDiyeNPO) | [Instagram](https://www.instagram.com/jalte_diye_foundation/)
