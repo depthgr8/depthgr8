@@ -51,7 +51,7 @@ HTML, CSS, JavaScript, Python, React
 AI-driven development tools, open-source collaboration, education technology
 
 **My website:**  
-https://depthgr8.github.io
+https://reallyrealeducation.org/founder
 
 **Connect or collaborate:**  
 [LinkedIn](https://www.linkedin.com/in/deepaksharmaa/) | [Facebook](https://www.facebook.com/depthgr8/) | [Instagram](https://www.instagram.com/depthgr8)
